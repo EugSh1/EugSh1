@@ -26,15 +26,15 @@
         <td style="width: 50%; text-align: center; border: none">
             <picture>
                 <source
-                    srcset="https://github-stats-eugsh1.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=dark&hide_border=true&bg_color=00000000"
+                    srcset="https://github-stats-eugsh1.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=dark&hide_border=true&bg_color=00000000&exclude_repo=ddf1,github-readme-stats&hide=gdscript"
                     media="(prefers-color-scheme: dark)"
                 />
                 <source
-                    srcset="https://github-stats-eugsh1.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=light&hide_border=true&bg_color=00000000"
+                    srcset="https://github-stats-eugsh1.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=light&hide_border=true&bg_color=00000000&exclude_repo=ddf1,github-readme-stats&hide=gdscript"
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 />
                 <img
-                    src="https://github-stats-eugsh1.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=dark&hide_border=true&bg_color=00000000"
+                    src="https://github-stats-eugsh1.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=dark&hide_border=true&bg_color=00000000&exclude_repo=ddf1,github-readme-stats&hide=gdscript"
                     alt="Top Languages"
                     style="width: 100%; border: none"
                 />
