@@ -1,6 +1,6 @@
 # Skills ⚙️
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwindcss,express,hono,nestjs,prisma&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwindcss,express,hono,nestjs,prisma,go&theme=dark)
 
 # Stats 📊
 
